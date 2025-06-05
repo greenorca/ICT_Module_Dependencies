@@ -1,6 +1,14 @@
 # Visualisierung für ICT-Module und deren Abhängigkeiten
 
+Diese App soll die mannigfaltigen Abhängigkeiten zwischen den Modulen der aktuellen ICT Berufsbildung aufzeigen.
+
 ![App Screenshot](img/app_screenshot.png)
+
+## Installation
+
+1. Repo clonen
+2. im Verzeichnis `npm install` ausführen
+3. im Verzeichnis `npm run dev` ausführen
 
 **Hinweis:** das Repo enthält ladbare Daten der BiVo2017. Auf *Daten importieren* klicken, im Repo die Datei *modules_2025-0605.json* auswählen und mit `F5` Seite neu laden.
 
