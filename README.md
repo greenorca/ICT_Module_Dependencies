@@ -4,6 +4,8 @@ Diese App soll die mannigfaltigen Abhängigkeiten zwischen den Modulen der aktue
 
 Die Modulnummern in der Modulliste verlinken auf die Modulbeschreibung der ICT-Berufsbildungsseite.
 
+Die Speicherung der Daten findet primär im Browser statt. Erstellte Konfigurationen können via *Speichern & Exportieren* Button lokal abgespeichert und von dort importiert werden.
+
 ![App Screenshot](img/app_screenshot.png)
 
 ## Installation
