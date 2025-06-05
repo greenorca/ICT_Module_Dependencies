@@ -2,6 +2,8 @@
 
 Diese App soll die mannigfaltigen Abhängigkeiten zwischen den Modulen der aktuellen ICT Berufsbildung aufzeigen.
 
+Die Modulnummern in der Modulliste verlinken auf die Modulbeschreibung der ICT-Berufsbildungsseite.
+
 ![App Screenshot](img/app_screenshot.png)
 
 ## Installation

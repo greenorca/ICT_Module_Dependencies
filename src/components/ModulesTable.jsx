@@ -12,7 +12,7 @@ export default function ModulesTable({elements}) {
       <tbody>
         {Array.from(elements).sort((m1,m2)=>{ return (m1.module_number < m2.module_number)?-1:1}).map((element, index) => {
           return <tr key={index}>
-            <th>{element.module_number}</th>
+            <th><a href={`https://www.modulbaukasten.ch/module/${element.module_number.replace("M", "")  }/`} target='new'>{element.module_number}</a></th>
             <td>{element.position?element.position.x:"nan"}</td>
             <td>{element.position? element.position.y : "nan"}</td>
             <td>{element.title}</td>
